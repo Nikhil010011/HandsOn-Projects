@@ -1,2 +1,2 @@
 # HandsOn-Projects
-HandsOn projects repository 
+This repository showcase my projects which I have done to upskill myself.
